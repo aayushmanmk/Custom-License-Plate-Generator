@@ -3,7 +3,6 @@
 
 This code in C will find a Custom license plate in which all the numbers add up to a number divisible by 9 and will print the numbers with Custom written next to it.
 
-
 Code:
 
 ```
@@ -33,6 +32,14 @@ int main()
         }
 }
 ```
+
+
+Reason for subtracting 48 from license:
+
+
+![Uploading image.png…]()
+
+
 
 Output:
 
