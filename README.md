@@ -37,7 +37,7 @@ int main()
 Reason for subtracting 48 from license:
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/124895858/221584387-8f0af200-0114-42f1-ae4c-eb03d4423a52.png)
 
 
 
