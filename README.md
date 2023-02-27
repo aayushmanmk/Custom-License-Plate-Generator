@@ -40,6 +40,9 @@ Reason for subtracting 48 from license:
 ![image](https://user-images.githubusercontent.com/124895858/221584387-8f0af200-0114-42f1-ae4c-eb03d4423a52.png)
 
 
+^^^ This is due to the invisible character being the last character which in ascii is 48, hence 48 has to be subtracted.
+
+---
 
 Output:
 
