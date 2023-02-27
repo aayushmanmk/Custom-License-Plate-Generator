@@ -1,4 +1,4 @@
----
+
 ## Custom License Plate Generator in C
 
 Code:
@@ -34,5 +34,3 @@ int main()
 Output:
 
 ![image](https://user-images.githubusercontent.com/124895858/221580596-6f35f71f-cc1d-42c2-bd90-3a71973b6093.png)
-
----
