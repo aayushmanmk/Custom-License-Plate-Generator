@@ -1,5 +1,5 @@
 ---
-## Custom License Plate Generator in C
+# Custom License Plate Generator in C
 
 code:
 
